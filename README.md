@@ -10,7 +10,7 @@ getgenv().Configs = {
     ["Time to kill"] = 190, -- seconds - max time to kill the target
     ["Chat"] = {
         ["Enable"] = false,
-        ["Message"] = {""}, -- Input your message here
+        ["Message"] = {"s"}, -- Input your message here
     },
     ["Run When Low Health"] = {
         ["Enable"] = true,
